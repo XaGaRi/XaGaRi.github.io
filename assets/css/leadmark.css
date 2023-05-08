@@ -61,6 +61,10 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
 
+downloadCV {
+  text-align: center;
+}
+
 body {
   margin: 0;
   font-family: "Poppins", sans-serif;
